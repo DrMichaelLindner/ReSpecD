@@ -15,7 +15,7 @@ MAKE A COPY BEFORE RENAMING!!
 targetfolder (optional) : folder that contains all dicom files to rename
 e.g. respecd('C:\yourfolder')
 
-if no targetfolder is specified, a dialog will pop up to
+If no targetfolder is specified, a dialog will pop up to
 browse and select a folder.
 
 
