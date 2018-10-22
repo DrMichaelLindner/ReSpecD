@@ -4,7 +4,7 @@ This MATLAB based tool is designed to rename all MR spectroscopy dicom files in 
 
 
 The new filename structure will be:
-<patient_id> _ <series number> _ <instance number>.dcm
+< patient ids > _ < series number > _ < instance number>.dcm
 
 
 BE AWARE: ORIGINAL DATA WILL BE DELETED!
@@ -29,3 +29,4 @@ Author:
 Michael Lindner  
 University of Reading, 2018  
 School of Psychology and Clinical Language Sciences  
+Centre for Integrative Neuroscience and Neurodynamics
