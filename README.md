@@ -1,6 +1,6 @@
-# ReSpecD
+# ReSpecD -  REname SPECtroscop Dicom files
 
-This MATLAB based tool is designed to rename all spectroscopy dicom files in a given (or selected) folder.
+This MATLAB based tool is designed to rename all MR spectroscopy dicom files in a given (or selected) folder.
 
 
 The new filename structure will be:
@@ -13,7 +13,7 @@ MAKE A COPY BEFORE RENAMING!!
 
 ## *INPUT:*
 targetfolder (optional) : folder that contains all dicom files to rename
-e.g. rename_spectroscopy_dicoms('C:\yourfolder')
+e.g. respecd('C:\yourfolder')
 
 if no targetfolder is specified, a dialog will pop up to
 browse and select a folder.
@@ -29,4 +29,3 @@ Author:
 Michael Lindner  
 University of Reading, 2018  
 School of Psychology and Clinical Language Sciences  
-Contact: ![contact email](contact.png?raw=true "contact email")
