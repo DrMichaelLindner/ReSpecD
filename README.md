@@ -20,7 +20,7 @@ browse and select a folder.
 
 
 ## *License*  
-pyBIDSconv by Michael Lindner is licensed under GPLv3
+ReSpecD by Michael Lindner is licensed under GPLv3
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
   
